@@ -15,7 +15,54 @@ Scripts e Notebooks: Códigos e notebooks Jupyter com exemplos e soluções.
 
 ## Estrutura do Repositório
 W.I.P
+/
 
+├── Introdução a Programação Python
+
+│   ├── script1.py
+
+│   ├── script2.py
+
+│   └── ...
+
+├── Modelo Não Supervisionado:  Analise de Correspondencia simples e multiplas
+│   ├── script1.py
+
+│   ├── script2.py
+
+│   └── ...
+
+├── Modelo Não Supervisionado:  Analise Fatorial PCA
+
+│   ├── script1.py
+
+│   ├── script2.py
+
+│   └── ...
+
+├── Modelo Não Supervisionado:  Clustering
+
+│   ├── script1.py
+
+│   ├── script2.py
+
+│   └── ...
+    
+├── Modelo Supervisionado:  Modelos Logísticos Binários e Multinomiais
+│   ├── script1.py
+
+│   ├── script2.py
+
+│   └── ...
+
+├── Modelo Supervisionado:  Análise de Regressão Simples e Múltipla
+│   ├── script1.py
+
+│   ├── script2.py
+
+│   └── ...
+
+└── ...
 
 ## Tecnologias Utilizadas
 Linguagens de Programação: Python, R
