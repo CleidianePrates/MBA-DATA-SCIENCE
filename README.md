@@ -14,8 +14,7 @@ Datasets: Conjuntos de dados utilizados para exercícios e projetos.
 Scripts e Notebooks: Códigos e notebooks Jupyter com exemplos e soluções.
 
 ## Estrutura do Repositório
-W.I.P
-/
+
 
 ├── Introdução a Programação Python
 
