@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-
 # Análise de Cluster
 # MBA em Data Science e Analytics USP ESALQ
 
